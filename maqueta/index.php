@@ -1,5 +1,5 @@
 <?php
-    require 'inc/token-validation.php';  
+    //require 'inc/token-validation.php';  
 ?>
 
 <!doctype html>
